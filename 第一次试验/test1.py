@@ -3,7 +3,7 @@ import numpy as np
 import jieba
 import jieba.analyse
 import matplotlib.pyplot as plt
-#***
+#**
 # 统计词频
 def wordcount(text):
     # 文章字符串前期处理
